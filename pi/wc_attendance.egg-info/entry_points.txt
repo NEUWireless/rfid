@@ -1,0 +1,4 @@
+[console_scripts]
+wc-attendance = wc_attendance.run_attendance:main
+wc-tui = wc_attendance.tui:main
+
