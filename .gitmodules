@@ -1,0 +1,3 @@
+[submodule "wireless-club-rfid-attendance"]
+	path = wireless-club-rfid-attendance
+	url = https://github.com/thomashinds/wireless-club-rfid-attendance
